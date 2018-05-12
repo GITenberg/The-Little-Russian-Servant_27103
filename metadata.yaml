@@ -1,0 +1,34 @@
+_repo: The-Little-Russian-Servant_27103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gréville, Henry
+    aliases:
+    - Durand, Alice Marie Céleste Fleury
+    - Durand, Alice Marie Celeste Fleury
+    - Greville, Henry
+    - Gréville, Henri
+    birthdate: 1842
+    deathdate: 1902
+    gutenberg_agent_id: '26238'
+    url: http://www.gutenberg.org/2009/agents/26238
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Gr%C3%A9ville
+description: ''
+gutenberg_issued: '2008-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Household employees -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Russia -- Social life and customs -- 19th century -- Fiction'
+title: The Little Russian Servant
+url: http://www.gutenberg.org/ebooks/27103
